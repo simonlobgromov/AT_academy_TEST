@@ -58,7 +58,7 @@ with open('your_data.json', 'r') as f:
 - `brand` - Марка авто
 - `fuel` - Тип топлива
 - `year` - Год выпуска
-- `selling_price` - Стоимость в USD
+- `selling_price` - Стоимость в Рупиях (вероятнее всего)
 
 
 # Task
