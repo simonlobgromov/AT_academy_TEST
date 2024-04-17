@@ -1,0 +1,3686 @@
+[
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 565000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2007,
+        "selling_price": 750000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 850000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 140000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 180000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 560000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 850000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 385000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 280000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 690000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 725000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 155000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 625000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 280000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 651000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 6000000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 670000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 800000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 225000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 575000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 335000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 180000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2014,
+        "selling_price": 574000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 501000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 320000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 330000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 260000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 225000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 579000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 380000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 555000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 3350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 389000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 315000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 1075000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 1000000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2014,
+        "selling_price": 430000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 300000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2014,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2008,
+        "selling_price": 285000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 372000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 475000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 1300000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 150000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 950000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 2600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 204999
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 310000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 875000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2007,
+        "selling_price": 125000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2008,
+        "selling_price": 585000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 695000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 1050000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 229999
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 240000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2008,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 560000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 370000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 500000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 3200000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 220000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 185000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2012,
+        "selling_price": 415000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 850000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 520000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 425000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 570000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 570000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 678000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 400000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 5830000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 325000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 615000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 250000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 2950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 220000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 515000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 900000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 170000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 934000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 210000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 365000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 678000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 575000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 210000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 590000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 484999
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 620000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 180000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 480000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2008,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 975000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 591000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 229999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 1145000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 3250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 292000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2006,
+        "selling_price": 180000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 340000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 5830000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 130000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2003,
+        "selling_price": 110000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 175000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 433000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 2000000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 280000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 195000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 550000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 6000000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 560000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 2850000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 429000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 610000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 459999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 1000000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 690000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 925000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 388000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 720000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 1075000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 330000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 225000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 6000000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 3250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 140000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 640000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 925000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 610000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 560000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 1300000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 450000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 135000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 375000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 260000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2020,
+        "selling_price": 800000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 600000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 800000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 225000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 2500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 270000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 425000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 1350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 675000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 975000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2008,
+        "selling_price": 175000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 4000000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 320000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 1275000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 175000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 411000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 430000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 1350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 585000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 160000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 229999
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5200000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 302000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 254999
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5800000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 415000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 190000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 240000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 885000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 2280000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 204999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 130000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 975000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 620000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 310000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 680000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 575000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 390000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 260000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2012,
+        "selling_price": 360000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2004,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 480000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 906000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 695000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 599000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 515000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 604000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 889000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2003,
+        "selling_price": 150000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 229999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 880000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 459999
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 900000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 190000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 480000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 575000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 350000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 670000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 225000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 620000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 416000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 395000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 560000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 2150000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 775000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 204999
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 360000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 225000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 725000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 220000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 540000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 675000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 160000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 300000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 685000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 625000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 590000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 540000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 350000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 600000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2012,
+        "selling_price": 256000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 220000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 530000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 624000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 229999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 370000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 750000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 925000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 1000000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 530000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 245000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 475000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 416000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 725000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 170000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 850000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 330000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 869999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 220000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2008,
+        "selling_price": 890000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 550000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 1500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 370000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 3750000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 681000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 800000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 1350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 2150000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 388000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 625000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 330000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 880000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 430000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 453000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 681000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 275000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 690000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 530000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 391000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 220000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 434999
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 225000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 295000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 2600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2007,
+        "selling_price": 120000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 675000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 725000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 375000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2014,
+        "selling_price": 390000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 620000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 850000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2020,
+        "selling_price": 260000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 680000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2020,
+        "selling_price": 808000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 1075000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 560000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 160000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 512000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2014,
+        "selling_price": 575000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 599000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 170000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 3200000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 280000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 1100000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 190000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 565000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2013,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 500000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 1800000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 750000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 1075000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 551000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 2150000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 340000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 551000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 250000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 565000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 375000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 280000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 275000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 450000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 180000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 780000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2006,
+        "selling_price": 130000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 800000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2005,
+        "selling_price": 120000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 565000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 190000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 2000000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2009,
+        "selling_price": 210000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 370000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 850000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2012,
+        "selling_price": 290000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2012,
+        "selling_price": 290000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2008,
+        "selling_price": 830000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 3790000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 795000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 725000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2014,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2009,
+        "selling_price": 180000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 960000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 375000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 215000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 515000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 408000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2006,
+        "selling_price": 55000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 459999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 680000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2004,
+        "selling_price": 100000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 570000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 240000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 229999
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 2950000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 495000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 1100000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 885000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 420000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 229999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 620000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 625000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 2950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2010,
+        "selling_price": 250000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 411000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 180000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 2400000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 2500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 850000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 350000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 330000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 950000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2005,
+        "selling_price": 150000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 900000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 800000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 227000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 280000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 3790000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 700000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 799000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 750000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2014,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 200000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 1100000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 635000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 975000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 320000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 1290000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 185000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 500000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2020,
+        "selling_price": 7200000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 484999
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2011,
+        "selling_price": 240000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 655000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2005,
+        "selling_price": 150000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 275000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 240000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 350000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 3200000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 560000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 2150000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 550000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 450000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 365000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 650000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2012,
+        "selling_price": 310000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 160000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5800000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 361000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 580000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 300000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 1300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 675000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 746000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2009,
+        "selling_price": 480000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2017,
+        "selling_price": 750000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 700000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 400000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 260000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2007,
+        "selling_price": 142000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 515000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 675000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 620000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2018,
+        "selling_price": 620000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 449000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2017,
+        "selling_price": 570000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 200000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 365000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2019,
+        "selling_price": 530000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "year": 2016,
+        "selling_price": 400000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 180000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2010,
+        "selling_price": 325000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2006,
+        "selling_price": 140000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 270000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 320000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 416000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2016,
+        "selling_price": 500000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2015,
+        "selling_price": 599000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "year": 2015,
+        "selling_price": 450000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 575000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2012,
+        "selling_price": 1300000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 750000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 600000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2007,
+        "selling_price": 210000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2011,
+        "selling_price": 275000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 850000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2008,
+        "selling_price": 90000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2014,
+        "selling_price": 300000
+    },
+    {
+        "brand": "Volkswagen",
+        "fuel": "Diesel",
+        "year": 2013,
+        "selling_price": 440000
+    },
+    {
+        "brand": "Ford",
+        "fuel": "Diesel",
+        "year": 2018,
+        "selling_price": 800000
+    },
+    {
+        "brand": "BMW",
+        "fuel": "Diesel",
+        "year": 2019,
+        "selling_price": 5400000
+    }
+]
